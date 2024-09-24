@@ -1,7 +1,7 @@
 # Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds
 
 [![Website](doc/badges/badge-website.svg)](https://www.obukhov.ai/point2cad)
-[![Open In Colab](doc/badges/badge-colab.svg)](https://colab.research.google.com/drive/1fYxwWiX_xUyRKcCOERuF6GX4wyPA9BP2)
+[![Open In Colab](doc/badges/badge-colab.svg)](https://colab.research.google.com/drive/1o5nNmu1CIn7I5wFFmF8-u7O66Bxqt_xC?usp=sharing)
 [![Docker](doc/badges/badge-docker.svg)](https://hub.docker.com/r/toshas/point2cad)
 
 <p align="center">
@@ -44,7 +44,7 @@ However, it may be slower due to the time taken to build the dependencies.
 Unlike the dockerized environment, the Colab functionality is not guaranteed. 
 Click the badge to start:
 
-[<img src="https://colab.research.google.com/assets/colab-badge.svg" height="32"/>](https://colab.research.google.com/drive/1fYxwWiX_xUyRKcCOERuF6GX4wyPA9BP2?usp=sharing)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" height="32"/>](https://colab.research.google.com/drive/1o5nNmu1CIn7I5wFFmF8-u7O66Bxqt_xC?usp=sharing)
 
 
 ### Run with Your Data
